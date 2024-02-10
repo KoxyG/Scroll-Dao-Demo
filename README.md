@@ -16,7 +16,7 @@ This contract was deployed on scroll.
 - **DAO-Contract:** [Scroll](https://sepolia.scrollscan.com/address/0xa3e837d073523cdf0426d59bb696250483131f72)
 
 ## Author
-This smart contract was written by [`Progress Ochuko, also known as koxy`].
+This smart contract was written by `Progress Ochuko, also known as koxy`.
 
 ## License
 
