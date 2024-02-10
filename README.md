@@ -1,4 +1,4 @@
-# English Auction NFT Smart Contract
+# DAO Contract
 
 ## Description
 
@@ -10,16 +10,14 @@ This project implements a Decentralized Autonomous Organization (DAO) smart cont
 - Proposal creation and voting
 - Proposal execution based on member votes
 
-## Usage
+# Deployed Contract
 
-### 1. Deploying the DAO Smart Contract
+This contract was deployed on scroll.
+- **DAO-Contract:** [Scroll](https://sepolia.scrollscan.com/address/0xa3e837d073523cdf0426d59bb696250483131f72)
 
-Before starting to use the DAO, deploy the DAO smart contract to an Ethereum-compatible blockchain using your preferred deployment method.
+## Author
+This smart contract was written by [Progress Ochuko, also known as koxy].
 
-### 2. Adding Members to the DAO
+## License
 
-Once the DAO contract is deployed, the owner of the contract can add members to the DAO using the `addMember` function. Members are essential for creating and voting on proposals.
-
-```solidity
-// Add a member to the DAO
-function addMember(address _member) public {...}
+This smart contract is licensed under the MIT License. 
